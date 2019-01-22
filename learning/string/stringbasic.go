@@ -46,6 +46,6 @@ func main() {
 	fmt.Println(utf8.RuneCountInString(s4)) //9
 
 	s4 = "プログラム"
-	fmt.Printf("%x\n", s4)
+	fmt.Printf("% x\n", s4)
 	fmt.Printf("%x\n", []rune(s4))
 }

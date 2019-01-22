@@ -24,6 +24,6 @@ npm-*.log
 WEB-INF
 *.ldb
 application.pid
-.exe
+*.exe
 
 
